@@ -1,0 +1,8 @@
+2		// d  number of dimensions
+40	// L  number of sites per dimension
+1		// transient
+0		// sweeps
+10	// Z1_max  power of 2
+10		// step_z
+1		// step_p
+10	// step_w
